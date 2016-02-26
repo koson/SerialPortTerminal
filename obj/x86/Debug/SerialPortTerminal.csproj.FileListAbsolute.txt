@@ -1,0 +1,42 @@
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.config
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmAbout.resources
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmTerminal.resources
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.manifest
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.application
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.pdb
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe.manifest
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.application
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.pdb
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.config
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.pdb
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.manifest
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.application
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.pdb
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmAbout.resources
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmTerminal.resources
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe.manifest
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.application
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\bin\x86\Debug\SerialPort Terminal.exe.config
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\SerialPort Terminal.exe
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\SerialPort Terminal.pdb
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\bin\x86\Debug\SerialPort Terminal.exe.manifest
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\bin\x86\Debug\SerialPort Terminal.application
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\bin\x86\Debug\SerialPort Terminal.exe
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\bin\x86\Debug\SerialPort Terminal.pdb
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\SerialPortTerminal.frmAbout.resources
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\SerialPortTerminal.frmTerminal.resources
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\SerialPort Terminal.exe.manifest
+D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPortTerminal(KET)\obj\x86\Debug\SerialPort Terminal.application
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.config
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.pdb

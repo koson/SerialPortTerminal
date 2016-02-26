@@ -1,0 +1,19 @@
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\Debug\ResolveAssemblyReference.cache
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+D:\02.기술연구소\01.Dabom-Device\03.모듈\솔래\SerialPortTerminal\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.csprojResolveAssemblyReference.cache
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmAbout.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.Cache
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
