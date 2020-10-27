@@ -40,3 +40,14 @@ D:\02.기술연구소\01.Dabom-Device\07.Application\02.iDCU_Emulator\SerialPort
 C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.config
 C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe
 C:\Users\HYUNGOOKANG\Documents\Visual Studio 2013\Projects\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.pdb
+D:\GitHubRepos\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe.config
+D:\GitHubRepos\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.exe
+D:\GitHubRepos\SerialPortTerminal\bin\x86\Debug\SerialPort Terminal.pdb
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csprojAssemblyReference.cache
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmAbout.resources
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.frmTerminal.resources
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.Properties.Resources.resources
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csproj.GenerateResource.cache
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPortTerminal.csproj.CoreCompileInputs.cache
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.exe
+D:\GitHubRepos\SerialPortTerminal\obj\x86\Debug\SerialPort Terminal.pdb
